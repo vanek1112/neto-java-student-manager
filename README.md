@@ -40,7 +40,7 @@
 
 ### Запуск:
 
-```java -jar target/student-manager-jar-with-dependencies.jar```
+```java -jar target/neto-java-student-manager-jar-with-dependencies.jar```
 
 ### Сборка без тестов:
 
